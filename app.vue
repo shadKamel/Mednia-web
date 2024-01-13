@@ -14,4 +14,5 @@ const loading = ref(true);
 nuxt.hook("app:mounted", (app) => {
   loading.value = false;
 });
+const test = ref();
 </script>
