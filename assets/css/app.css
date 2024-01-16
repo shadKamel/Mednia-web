@@ -1,0 +1,12 @@
+
+
+    @font-face {
+        font-family: "Inter";
+        src: url('/fonts/Inter-Regular.ttf');
+        font-weight: 400;
+    }
+
+    * {
+        @apply font-Inter focus:outline-none;
+        
+    }

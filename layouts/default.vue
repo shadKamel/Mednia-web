@@ -1,8 +1,8 @@
 <template>
-    <div class="flex bg-slate-50">
-        <Sidebar />
-        <div class="container mx-auto px-5">
-            <slot />
-        </div>
+  <div class="flex bg-white">
+    <Sidebar />
+    <div class="ms-[110px] w-full">
+      <slot />
     </div>
+  </div>
 </template>

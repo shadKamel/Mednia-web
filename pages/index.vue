@@ -1,11 +1,16 @@
 <template>
-  <div>home</div>
+  <main class="flex items-start">
+    <HomeMedicalHistories class="overflow-auto" />
+    <HomePatientProfile />
+  </main>
 </template>
 
 <script lang="ts" setup>
-definePageMeta({
-  middleware: "auth",
+const {
+  data: Patients,
+  pending: loading,
+  error: patientsError,
+} = useFetch("/", {
+  baseURL: "askdjfslkd",
 });
 </script>
-
-<style></style>
