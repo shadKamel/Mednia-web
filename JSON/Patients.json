@@ -1,0 +1,1016 @@
+[
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    },
+    {
+      "isActive": true,
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+      "thirdName": "A",
+      "firstName": "John",
+      "secondName": "Doe",
+      "createdAt": "2023-05-20T15:32:45.7890123",
+      "birthDate": "1990-08-12T08:15:30.1234567",
+      "gender": 1,
+      "phoneNumber": "5551234567",
+      "countryCode": "1",
+      "deceased": false,
+      "nationalCardId": "ABC123",
+      "passportId": "P123456",
+      "recentTreatments": [
+        {
+          "patientName": "John Doe",
+          "doctorName": "Dr. Smith",
+          "hospitalName": "City Medical Center",
+          "diseaseName": "Flu",
+          "createdAt": "2022-12-10T09:45:00"
+        }
+      ],
+      "patientResults": [],
+      "patientDiseases": []
+    }
+]

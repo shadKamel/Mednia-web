@@ -2,15 +2,14 @@
   <main class="flex items-start">
     <HomeMedicalHistories class="overflow-auto" />
     <HomePatientProfile />
+    {{patients}}
   </main>
 </template>
 
 <script lang="ts" setup>
 const {
-  data: Patients,
+  data: patients,
   pending: loading,
   error: patientsError,
-} = useFetch("/", {
-  baseURL: "askdjfslkd",
-});
+} = useFetch("/api/patient");   
 </script>
