@@ -28,34 +28,23 @@
       </div>
     </div>
 
-    <div class="mt-10 space-y-4">
+    <div class="my-10 space-y-4">
       <h2 class="text-xl capitalize">Results</h2>
+      <!-- {{ patientStore.selectedPatient }} -->
       <div class="space-y-4">
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
-        <PatientsCard />
+        <PatientsCard
+          v-for="(patient, index) in props.patients"
+          :patient="patient"
+          @selectPatient="(patient) => (patientStore.selectedPatient = patient)"
+        />
       </div>
     </div>
   </div>
 </template>
 
 <script lang="ts" setup>
+const props = defineProps(["patients"]);
 const search = ref("");
-</script>
 
-<style></style>
+const patientStore = useMyPatientsStore();
+</script>

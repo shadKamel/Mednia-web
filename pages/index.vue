@@ -1,8 +1,7 @@
 <template>
   <main class="flex items-start">
-    <HomeMedicalHistories class="overflow-auto" />
+    <HomeMedicalHistories :patients="patients" class="overflow-auto" />
     <HomePatientProfile />
-    {{patients}}
   </main>
 </template>
 
@@ -11,5 +10,5 @@ const {
   data: patients,
   pending: loading,
   error: patientsError,
-} = useFetch("/api/patient");   
+} = useFetch("/api/patient");
 </script>

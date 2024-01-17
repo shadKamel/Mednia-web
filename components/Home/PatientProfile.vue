@@ -1,13 +1,30 @@
 <template>
-  <div class="w-full ps-4">
+  <div class="w-full ps-4" v-if="patientStore.selectedPatient">
     <div class="bg-[#F0F0F0] p-6 flex space-x-5">
       <div>
         <img src="/imgs/patient.png" class="rounded-md" alt="" />
       </div>
 
       <div class="space-y-2">
-        <h1 class="font-medium capitalize text-2xl">kosar luqman</h1>
-        <p>male, 23 years old (1/1/2012)</p>
+        <h1 class="font-medium capitalize text-2xl">
+          {{ patientStore.selectedPatient?.firstName }}
+          {{ patientStore.selectedPatient?.secoundName }}
+          {{ patientStore.selectedPatient?.thirdName }}
+        </h1>
+        <p>
+          <span v-if="patientStore.selectedPatient.gender === 1">male </span>
+          <span v-else-if="patientStore.selectedPatient.gender === 2"
+            >female
+          </span>
+          <span v-else-if="patientStore.selectedPatient.gender === 3"
+            >other
+          </span>
+          {{
+            `, ${
+              useTimeAgo(patientStore.selectedPatient.birthDate).value
+            } (1/1/2012)`
+          }}
+        </p>
         <p>male, 23 years old (1/1/2012)</p>
 
         <div class="flex space-x-5">
@@ -58,4 +75,12 @@
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useTimeAgo } from "@vueuse/core";
+
+const patientStore = useMyPatientsStore();
+
+const test = useTimeAgo(patientStore.selectedPatient.birthDate, {
+  controls: true,
+});
+</script>
